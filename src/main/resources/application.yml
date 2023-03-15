@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: app
+  cloud:
+    config:
+      label: 1.2
+      profile: dev
+      uri: http://localhost:8888     
+name:
+  app: Astha Yadav     
